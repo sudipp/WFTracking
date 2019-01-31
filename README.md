@@ -1,2 +1,2 @@
-# WFTracking
-Windows Workflow tracker, builds WF definitions and captures any log any changes in xml files
+# WFTracking Service
+Windows Workflow tracker service, generates workflow definitions and log any changes in workflow into xml files
