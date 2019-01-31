@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLFileTrackingService", "XMLFileTrackingService\XMLFileTrackingService.csproj", "{31A33A28-18E4-42F9-8386-99C1A575FC11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWorkflow", "SampleWorkflow\SampleWorkflow.csproj", "{B2DF1681-BAFC-4E88-8A9F-D149FD0ADB6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowTrackingClient", "WorkflowTrackingMonitor-UI\WorkflowTrackingClient\WorkflowTrackingClient.csproj", "{73956B2D-DC43-465C-BE72-B26F383FA480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A33A28-18E4-42F9-8386-99C1A575FC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A33A28-18E4-42F9-8386-99C1A575FC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A33A28-18E4-42F9-8386-99C1A575FC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A33A28-18E4-42F9-8386-99C1A575FC11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DF1681-BAFC-4E88-8A9F-D149FD0ADB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DF1681-BAFC-4E88-8A9F-D149FD0ADB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DF1681-BAFC-4E88-8A9F-D149FD0ADB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DF1681-BAFC-4E88-8A9F-D149FD0ADB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73956B2D-DC43-465C-BE72-B26F383FA480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73956B2D-DC43-465C-BE72-B26F383FA480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73956B2D-DC43-465C-BE72-B26F383FA480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73956B2D-DC43-465C-BE72-B26F383FA480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

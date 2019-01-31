@@ -1,0 +1,7 @@
+C:\Users\Sudip Purkayastha\Documents\Visual Studio 2008\Projects\WorkflowProject1\WorkflowProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sudip Purkayastha\Documents\Visual Studio 2008\Projects\WorkflowProject1\WorkflowProject1\bin\Debug\WorkflowProject1.exe
+C:\Users\Sudip Purkayastha\Documents\Visual Studio 2008\Projects\WorkflowProject1\WorkflowProject1\bin\Debug\WorkflowProject1.pdb
+C:\Users\Sudip Purkayastha\Documents\Visual Studio 2008\Projects\WorkflowProject1\WorkflowProject1\obj\Debug\WorkflowProject1.exe
+C:\Users\Sudip Purkayastha\Documents\Visual Studio 2008\Projects\WorkflowProject1\WorkflowProject1\obj\Debug\WorkflowProject1.pdb
+C:\Users\Sudip Purkayastha\Documents\Visual Studio 2008\Projects\WorkflowProject1\WorkflowProject1\bin\Debug\XMLFileTrackingService.dll
+C:\Users\Sudip Purkayastha\Documents\Visual Studio 2008\Projects\WorkflowProject1\WorkflowProject1\bin\Debug\XMLFileTrackingService.pdb

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="XMLFileTracking.ActivitySummary">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAACAQAAARAAAAIAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ActivitySummary.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ChildActivities" />
+      <Property Name="ParentActivity" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="XMLFileTracking.ActivityTrackRecord">
+    <Position X="3" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACBEAAEQAAAgIQEAAAAIAQACAAAAAAAAQAAAAQABEA=</HashCode>
+      <FileName>ActivityTrackRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLFileTracking.BaseTrackRecord">
+    <Position X="1.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAASAAAAAAQAAAAAAAAAAAg=</HashCode>
+      <FileName>BaseTrackRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLFileTracking.WorkFlowInfo">
+    <Position X="10.25" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AECAiAAUQEAAgAAAAAQAAAAQCIAAAMAAAAAUAAAAAIA=</HashCode>
+      <FileName>WorkFlowInfo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ActivityRecords" />
+      <Property Name="TrackingRecords" />
+      <Property Name="WorkFlowRecords" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="XMLFileTracking.WorkFlowTrackRecord">
+    <Position X="0.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WorkFlowTrackRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLFileTracking.XmlPersistence" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAJAAAACAAAIAAQIAAAABAAAAAAAAAAEQAAEgAAAA=</HashCode>
+      <FileName>XMLFilePersistence.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XMLFileTracking.XMLFileTrackingChannel" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEAJAAgEAAIAhEAAAAAQAAQBQAaAQBAAABAAAAA=</HashCode>
+      <FileName>XMLFileTrackingChannel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_persistanceHelper" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XMLFileTracking.XMLFileTrackingService">
+    <Position X="13.25" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgAQAAAAAAAACAAAAAAIABAAAAQQAAAAAAAAAAAA=</HashCode>
+      <FileName>XMLFileTrackingService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLFileTrackingService.XMLTrackingQueryManager">
+    <Position X="13.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAQQAAAAAAAAAAAAAAQAAAAAACAQAAA=</HashCode>
+      <FileName>XMLTrackingQueryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XMLFileTrackingService.StringExtensions">
+    <Position X="13.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>XMLTrackingQueryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="System.Collections.Generic.IList&lt;T&gt;">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
